@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #778492;
 }
 
+h3 {
+  line-height: 1.5em;
+}
+
 a {
   color: #3AAA64;
   -webkit-transition: all 0.4s ease-in-out;
